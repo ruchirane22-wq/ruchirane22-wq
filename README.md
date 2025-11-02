@@ -34,7 +34,7 @@ I’m passionate about bridging the gap between business needs and technology �
 ### 📈 Featured Projects
 #### 🔹 [Customer Feedback Automation API](https://github.com/yourusername/feedback-api)
 Automated creation of feedback links using REST API integration for post-service insights.  
-**Tech:** JSON, Python, REST API  Download the ZIP of Customer Feedback Automation API
+**Tech:** JSON, Python, REST API  
 
 #### 🔹 [EOL Database Dashboard](https://github.com/yourusername/eol-database)
 Developed reports and visual dashboards for vehicle end-of-life data.  
