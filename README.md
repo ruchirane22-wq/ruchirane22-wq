@@ -32,7 +32,7 @@ I’m passionate about bridging the gap between business needs and technology �
 ---
 
 ### 📈 Featured Projects
-#### 🔹 [Customer Feedback Automation API](https://github.com/yourusername/feedback-api)
+#### 🔹(https://github.com/ruchirane22-wq/Customer-Feedback-Automation-API)
 Automated creation of feedback links using REST API integration for post-service insights.  
 **Tech:** JSON, Python, REST API  
 
